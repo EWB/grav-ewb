@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/grav-ewb/user/plugins/login/blueprints.yaml',
-    'modified' => 1472172412,
+    'modified' => 1472221241,
     'data' => [
         'name' => 'Login',
         'version' => '2.0.1',

@@ -126,7 +126,7 @@ class __TwigTemplate_cc9c3414b8707291bc59be3c3c484fd01045ad3add72462db91bfedef41
     {
         // line 15
         echo "                ";
-        $this->getAttribute((isset($context["assets"]) ? $context["assets"] : null), "addCss", array(0 => "theme://css/custom.css", 1 => 100), "method");
+        $this->getAttribute((isset($context["assets"]) ? $context["assets"] : null), "addCss", array(0 => "theme://css/custom.css", 1 => 101), "method");
         // line 16
         echo "                ";
         $this->getAttribute((isset($context["assets"]) ? $context["assets"] : null), "addCss", array(0 => "theme://css/default.css"), "method");
@@ -245,7 +245,7 @@ class __TwigTemplate_cc9c3414b8707291bc59be3c3c484fd01045ad3add72462db91bfedef41
 /*         <link rel="icon" type="image/png" href="{{ theme_url }}/images/favicon.png" />*/
 /* */
 /*          {% block stylesheets %}*/
-/*                 {% do assets.addCss('theme://css/custom.css',100) %}*/
+/*                 {% do assets.addCss('theme://css/custom.css',101) %}*/
 /*                 {% do assets.addCss('theme://css/default.css') %}*/
 /*                 {% do assets.addCss('theme://css/layout.css') %}*/
 /*                 {% do assets.addCss('theme://css/media-queries.css') %}*/
