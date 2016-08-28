@@ -2,24 +2,28 @@
 title: Features
 visible: false
 rows:
-  - title: Simple, Clean and Modern Design.
-    description: Lorem ipsum dolor sit amet, ea eum labitur scripserit, illum complectitur deterruisset at pro. Odio quaeque reformidans est eu, expetendis intellegebat has ut, viderer invenire ut his. Has molestie percipit an. Falli volumus efficiantur sed id, ad vel noster propriae. Ius ut etiam vivendo, graeci iudicabit constituto at mea. No soleat fabulas prodesset vel, ut quo solum dicunt. Nec et amet vidisse mentitum. Cibo mutat nulla ei eam.
+  - title: Who We Are
+    description: Tedra L. Cobb and Associates is a dynamic consulting firm dedicated to providing organizations with reliable, consistent and up to date training programs and other professional and development services. Our clients include government and private sector corporations, educational institutions and not-for-profit companies.
     description_position: right
     image: tedra-cobb-portrait-tight.png
     name: design
-  - title: Fully Responsive.
-    description: Aenean condimentum, lacus sit amet luctus lobortis, dolores et quas molestias excepturi enim tellus ultrices elit, amet consequat enim elit noneas sit amet luctu. Quis nostrum exercitationem ullam corporis suscipit laboriosam.Our library is continually refreshed with the latest on web technology so you'll never fall behind. Quis nostrum exercitationem ullam corporis suscipit laboriosam.
+  - title: Project Support.
+    description: We work with organizations and individuals to support projects and initiatives - ranging from grant strategies to personnel management planning.
     description_position: left
     image: feature-image-2.png
     name: responsive
-  - title: Cross-Browser Compatible.
-    description: Lorem ipsum dolor sit amet, ea eum labitur scripserit, illum complectitur deterruisset at pro. Odio quaeque reformidans est eu, expetendis intellegebat has ut, viderer invenire ut his. Has molestie percipit an. Falli volumus efficiantur sed id, ad vel noster propriae. Ius ut etiam vivendo, graeci iudicabit constituto at mea. No soleat fabulas prodesset vel, ut quo solum dicunt. Nec et amet vidisse mentitum. Cibo mutat nulla ei eam.
+  - title: Communications
+    description: Professionals will improve their verbal and written English, their professional, business, and interpersonal communication skills.
     description_position: right
-    image: feature-image-3.png
+    image: tedra-cobb-conference.jpg
     name: cross-browser
-  - title: Video Support.
-    description: Aenean condimentum, lacus sit amet luctus lobortis, dolores et quas molestias excepturi enim tellus ultrices elit, amet consequat enim elit noneas sit amet luctu. Quis nostrum exercitationem ullam corporis suscipit laboriosam.Our library is continually refreshed with the latest on web technology so you'll never fall behind. Quis nostrum exercitationem ullam corporis suscipit laboriosam.
+  - title: Strategy
+    description: We facilitate Strategic Planning through the use of the Situation Appraisal process, questioning, brainstorming and discussion.  Situation appraisal is a tool to help us clarify and manage the problems that face us.
     description_position: left
     video: http://player.vimeo.com/video/14592941
     name: video
+  - title: Training
+    description: We work with each organization to ensure that the training we provide is targeted to the intended outcomes.  Trainings are focused on specific outcomes.
+    description_position: right    
+    image: feature-image-2.png  
 ---

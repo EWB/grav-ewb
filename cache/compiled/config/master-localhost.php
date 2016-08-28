@@ -1,81 +1,81 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1472244435,
-    'checksum' => 'ac16f1d7dc269e755b8d8a626ec179c6',
+    'timestamp' => 1472331756,
+    'checksum' => 'b564e4198a6986906e0bbc6e559786b6',
     'files' => [
         'user/config' => [
             'media' => [
                 'file' => 'user/config/media.yaml',
-                'modified' => 1472221240
+                'modified' => 1472322440
             ],
             'plugins/simple_form' => [
                 'file' => 'user/config/plugins/simple_form.yaml',
-                'modified' => 1472221240
+                'modified' => 1472322440
             ],
             'security' => [
                 'file' => 'user/config/security.yaml',
-                'modified' => 1472221240
+                'modified' => 1472322440
             ],
             'site' => [
                 'file' => 'user/config/site.yaml',
-                'modified' => 1472221240
+                'modified' => 1472330789
             ],
             'streams' => [
                 'file' => 'user/config/streams.yaml',
-                'modified' => 1472221240
+                'modified' => 1472322440
             ],
             'system' => [
                 'file' => 'user/config/system.yaml',
-                'modified' => 1472244415
+                'modified' => 1472331752
             ],
             'themes/woo' => [
                 'file' => 'user/config/themes/woo.yaml',
-                'modified' => 1472221240
+                'modified' => 1472322440
             ]
         ],
         'system/config' => [
             'media' => [
                 'file' => 'system/config/media.yaml',
-                'modified' => 1472221240
+                'modified' => 1472322440
             ],
             'site' => [
                 'file' => 'system/config/site.yaml',
-                'modified' => 1472221240
+                'modified' => 1472322440
             ],
             'streams' => [
                 'file' => 'system/config/streams.yaml',
-                'modified' => 1472221240
+                'modified' => 1472322440
             ],
             'system' => [
                 'file' => 'system/config/system.yaml',
-                'modified' => 1472221240
+                'modified' => 1472322440
             ]
         ],
         'user/plugins' => [
             'plugins/admin' => [
                 'file' => 'user/plugins/admin/admin.yaml',
-                'modified' => 1472221240
+                'modified' => 1472322440
             ],
             'plugins/email' => [
                 'file' => 'user/plugins/email/email.yaml',
-                'modified' => 1472221241
+                'modified' => 1472322440
             ],
             'plugins/error' => [
                 'file' => 'user/plugins/error/error.yaml',
-                'modified' => 1472221241
+                'modified' => 1472322441
             ],
             'plugins/form' => [
                 'file' => 'user/plugins/form/form.yaml',
-                'modified' => 1472221241
+                'modified' => 1472322441
             ],
             'plugins/login' => [
                 'file' => 'user/plugins/login/login.yaml',
-                'modified' => 1472221241
+                'modified' => 1472322441
             ],
             'plugins/problems' => [
                 'file' => 'user/plugins/problems/problems.yaml',
-                'modified' => 1472221241
+                'modified' => 1472322441
             ]
         ]
     ],
@@ -478,17 +478,17 @@ return [
             ]
         ],
         'site' => [
-            'title' => 'Woo',
+            'title' => 'Tedra Cobb & Associates',
             'author' => [
-                'name' => 'Joe Bloggs',
-                'email' => 'joe@test.com'
+                'name' => 'Tedra Cobb',
+                'email' => 'ewilliamsbergen@gmail.com'
             ],
             'taxonomies' => [
                 0 => 'category',
                 1 => 'tag'
             ],
             'metadata' => [
-                'description' => 'Woo is a free and responsive theme for **Grav**. Its a port of Woo template by Styleshout.'
+                'description' => 'Tedra L. Cobb and Associates is a dynamic consulting firm dedicated to providing organizations with reliable, consistent and up to date training programs and other professional and development services.  Our clients include government and private sector corporations, educational institutions and not-for-profit companies.'
             ],
             'summary' => [
                 'enabled' => true,
