@@ -28,13 +28,13 @@ social:
     icon: google-plus
 menu:
   -
-    text: Features
+    text: Services
     link: '#features'
   -
     text: Pricing
     link: '#pricing'
   -
-    text: Screenshots
+    text: Education
     link: '#screenshots'
   -
     text: Testimonials
@@ -43,16 +43,16 @@ menu:
     text: Subscribe
     link: '#subscribe'
 footer:
-  text: 'This is Photoshop''s version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris.'
+  text: 'Footer Text'
   address:
-    title: 'COME VISIT'
+    title: ''
     lines:
       -
-        line: '1600 Amphitheatre Parkway'
+        line: ''
       -
-        line: 'Mountain View, CA'
+        line: ''
       -
-        line: '94043 US'
+        line: ''
   social_title: Socialize
   contact:
     title: 'CONTACT US'
@@ -64,5 +64,5 @@ footer:
         text: 123.456.7890
         url: '#'
       -
-        text: someone@woosite.com
-        url: 'mailto:someone@woosite.com'
+        text: tedra@tedracobb.com
+        url: 'mailto:tedra@tedracobb.com'

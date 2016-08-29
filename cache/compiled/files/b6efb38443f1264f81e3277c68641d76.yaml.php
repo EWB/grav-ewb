@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/grav-ewb/user/config/site.yaml',
-    'modified' => 1472330789,
+    'modified' => 1472479853,
     'data' => [
         'title' => 'Tedra Cobb & Associates',
         'author' => [
@@ -43,7 +43,7 @@ return [
         ],
         'menu' => [
             0 => [
-                'text' => 'Features',
+                'text' => 'Services',
                 'link' => '#features'
             ],
             1 => [
@@ -51,7 +51,7 @@ return [
                 'link' => '#pricing'
             ],
             2 => [
-                'text' => 'Screenshots',
+                'text' => 'Education',
                 'link' => '#screenshots'
             ],
             3 => [
@@ -64,18 +64,18 @@ return [
             ]
         ],
         'footer' => [
-            'text' => 'This is Photoshop\'s version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris.',
+            'text' => 'Footer Text',
             'address' => [
-                'title' => 'COME VISIT',
+                'title' => '',
                 'lines' => [
                     0 => [
-                        'line' => '1600 Amphitheatre Parkway'
+                        'line' => ''
                     ],
                     1 => [
-                        'line' => 'Mountain View, CA'
+                        'line' => ''
                     ],
                     2 => [
-                        'line' => '94043 US'
+                        'line' => ''
                     ]
                 ]
             ],
@@ -92,8 +92,8 @@ return [
                         'url' => '#'
                     ],
                     2 => [
-                        'text' => 'someone@woosite.com',
-                        'url' => 'mailto:someone@woosite.com'
+                        'text' => 'tedra@tedracobb.com',
+                        'url' => 'mailto:tedra@tedracobb.com'
                     ]
                 ]
             ]

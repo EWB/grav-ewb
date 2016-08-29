@@ -1,81 +1,81 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1472331756,
-    'checksum' => 'b564e4198a6986906e0bbc6e559786b6',
+    'timestamp' => 1472479856,
+    'checksum' => '9391cbfa644374a3adecaa6e53beb8a6',
     'files' => [
         'user/config' => [
             'media' => [
                 'file' => 'user/config/media.yaml',
-                'modified' => 1472322440
+                'modified' => 1472221240
             ],
             'plugins/simple_form' => [
                 'file' => 'user/config/plugins/simple_form.yaml',
-                'modified' => 1472322440
+                'modified' => 1472221240
             ],
             'security' => [
                 'file' => 'user/config/security.yaml',
-                'modified' => 1472322440
+                'modified' => 1472221240
             ],
             'site' => [
                 'file' => 'user/config/site.yaml',
-                'modified' => 1472330789
+                'modified' => 1472479853
             ],
             'streams' => [
                 'file' => 'user/config/streams.yaml',
-                'modified' => 1472322440
+                'modified' => 1472221240
             ],
             'system' => [
                 'file' => 'user/config/system.yaml',
-                'modified' => 1472331752
+                'modified' => 1472476575
             ],
             'themes/woo' => [
                 'file' => 'user/config/themes/woo.yaml',
-                'modified' => 1472322440
+                'modified' => 1472221240
             ]
         ],
         'system/config' => [
             'media' => [
                 'file' => 'system/config/media.yaml',
-                'modified' => 1472322440
+                'modified' => 1472221240
             ],
             'site' => [
                 'file' => 'system/config/site.yaml',
-                'modified' => 1472322440
+                'modified' => 1472221240
             ],
             'streams' => [
                 'file' => 'system/config/streams.yaml',
-                'modified' => 1472322440
+                'modified' => 1472221240
             ],
             'system' => [
                 'file' => 'system/config/system.yaml',
-                'modified' => 1472322440
+                'modified' => 1472221240
             ]
         ],
         'user/plugins' => [
             'plugins/admin' => [
                 'file' => 'user/plugins/admin/admin.yaml',
-                'modified' => 1472322440
+                'modified' => 1472221240
             ],
             'plugins/email' => [
                 'file' => 'user/plugins/email/email.yaml',
-                'modified' => 1472322440
+                'modified' => 1472221241
             ],
             'plugins/error' => [
                 'file' => 'user/plugins/error/error.yaml',
-                'modified' => 1472322441
+                'modified' => 1472221241
             ],
             'plugins/form' => [
                 'file' => 'user/plugins/form/form.yaml',
-                'modified' => 1472322441
+                'modified' => 1472221241
             ],
             'plugins/login' => [
                 'file' => 'user/plugins/login/login.yaml',
-                'modified' => 1472322441
+                'modified' => 1472221241
             ],
             'plugins/problems' => [
                 'file' => 'user/plugins/problems/problems.yaml',
-                'modified' => 1472322441
+                'modified' => 1472221241
             ]
         ]
     ],
@@ -519,7 +519,7 @@ return [
             ],
             'menu' => [
                 0 => [
-                    'text' => 'Features',
+                    'text' => 'Services',
                     'link' => '#features'
                 ],
                 1 => [
@@ -527,7 +527,7 @@ return [
                     'link' => '#pricing'
                 ],
                 2 => [
-                    'text' => 'Screenshots',
+                    'text' => 'Education',
                     'link' => '#screenshots'
                 ],
                 3 => [
@@ -540,18 +540,18 @@ return [
                 ]
             ],
             'footer' => [
-                'text' => 'This is Photoshop\'s version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris.',
+                'text' => 'Footer Text',
                 'address' => [
-                    'title' => 'COME VISIT',
+                    'title' => '',
                     'lines' => [
                         0 => [
-                            'line' => '1600 Amphitheatre Parkway'
+                            'line' => ''
                         ],
                         1 => [
-                            'line' => 'Mountain View, CA'
+                            'line' => ''
                         ],
                         2 => [
-                            'line' => '94043 US'
+                            'line' => ''
                         ]
                     ]
                 ],
@@ -568,8 +568,8 @@ return [
                             'url' => '#'
                         ],
                         2 => [
-                            'text' => 'someone@woosite.com',
-                            'url' => 'mailto:someone@woosite.com'
+                            'text' => 'tedra@tedracobb.com',
+                            'url' => 'mailto:tedra@tedracobb.com'
                         ]
                     ]
                 ]

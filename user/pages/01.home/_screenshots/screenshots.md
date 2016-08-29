@@ -1,7 +1,6 @@
 ---
-title: Get Hosting.         
+title: 'English Instruction.'
 ---
-#Product Screenshots.
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
-eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
-voluptatem quia voluptas sit aspernatur aut odit aut fugit.
+
+#International Education.
+I begin with the belief that all of my students come into the classroom with preexisting knowledge that contributes to the learning process, whether this be linguistic or lived experiences. I make an attempt to discover and exploit this knowledge from the outset by surveying my students’ linguistic knowledge and personal experiences.
