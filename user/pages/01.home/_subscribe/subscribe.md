@@ -1,10 +1,7 @@
----
-
----
 <div class="row section-head">
 <div class="twelve columns" markdown="1">
-  #TCA News signup form.
-  Signup to receive occasional e-mails with news of upcoming trainings.
+  #Mailing List signup form.
+  Sign up to receive occasional emails which highlight upcoming trainings and opportunities
 </div>
 </div>
 

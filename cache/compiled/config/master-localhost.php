@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1472479856,
-    'checksum' => '9391cbfa644374a3adecaa6e53beb8a6',
+    'timestamp' => 1472484625,
+    'checksum' => '55558c32b9777fa30aa65f354b6bf9b4',
     'files' => [
         'user/config' => [
             'media' => [
@@ -19,7 +19,7 @@ return [
             ],
             'site' => [
                 'file' => 'user/config/site.yaml',
-                'modified' => 1472479853
+                'modified' => 1472484616
             ],
             'streams' => [
                 'file' => 'user/config/streams.yaml',
@@ -27,7 +27,7 @@ return [
             ],
             'system' => [
                 'file' => 'user/config/system.yaml',
-                'modified' => 1472476575
+                'modified' => 1472484392
             ],
             'themes/woo' => [
                 'file' => 'user/config/themes/woo.yaml',
@@ -523,18 +523,14 @@ return [
                     'link' => '#features'
                 ],
                 1 => [
-                    'text' => 'Pricing',
-                    'link' => '#pricing'
-                ],
-                2 => [
                     'text' => 'Education',
                     'link' => '#screenshots'
                 ],
-                3 => [
+                2 => [
                     'text' => 'Testimonials',
                     'link' => '#testimonials'
                 ],
-                4 => [
+                3 => [
                     'text' => 'Subscribe',
                     'link' => '#subscribe'
                 ]

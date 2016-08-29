@@ -20,3 +20,18 @@
    margin: 0;
    text-shadow: 0px 1px 4px rgba(0, 0, 0, .2);
 }
+#content #call-to-action {
+   background:#306294;
+}
+#content #call-to-action p {
+   color:#FFFFFF;
+}
+#content #call-to-action p span {
+    color: #e6cf4d;
+}
+#content #call-to-action .header-col h1:before {
+   display: none;
+}
+#content #subscribe p {
+    color: #FFFFFF;
+}    

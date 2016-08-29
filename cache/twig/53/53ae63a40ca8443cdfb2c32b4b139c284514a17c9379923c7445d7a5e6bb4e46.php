@@ -114,8 +114,9 @@ class __TwigTemplate_fb27762270f389e57f7711953637eb8d66d5d4e673c1393db2a76c0dec6
                 </div>
             </div>
         </div>
-        <p class=\"copyright\">&copy; 2014 Woo | Design by <a title=\"Styleshout\" href=\"http://www.styleshout.com/\">Styleshout</a> | Converted to GRAV by <a title=\"Grav\" href=\"http://www.getgrav.org/\">Grav Team</a></p>
-        <div id=\"go-top\">
+";
+        // line 42
+        echo "        <div id=\"go-top\">
             <a class=\"smoothscroll\" title=\"Back to Top\" href=\"#hero\"><i class=\"icon-up-open\"></i></a>
         </div>
     </div>
@@ -134,7 +135,7 @@ class __TwigTemplate_fb27762270f389e57f7711953637eb8d66d5d4e673c1393db2a76c0dec6
 
     public function getDebugInfo()
     {
-        return array (  113 => 37,  102 => 35,  98 => 34,  93 => 32,  88 => 29,  77 => 27,  73 => 26,  68 => 24,  63 => 21,  54 => 19,  50 => 18,  45 => 16,  36 => 10,  29 => 6,  25 => 5,  19 => 1,);
+        return array (  119 => 42,  113 => 37,  102 => 35,  98 => 34,  93 => 32,  88 => 29,  77 => 27,  73 => 26,  68 => 24,  63 => 21,  54 => 19,  50 => 18,  45 => 16,  36 => 10,  29 => 6,  25 => 5,  19 => 1,);
     }
 }
 /* <footer>*/
@@ -177,7 +178,7 @@ class __TwigTemplate_fb27762270f389e57f7711953637eb8d66d5d4e673c1393db2a76c0dec6
 /*                 </div>*/
 /*             </div>*/
 /*         </div>*/
-/*         <p class="copyright">&copy; 2014 Woo | Design by <a title="Styleshout" href="http://www.styleshout.com/">Styleshout</a> | Converted to GRAV by <a title="Grav" href="http://www.getgrav.org/">Grav Team</a></p>*/
+/* {#         <p class="copyright">&copy; 2014 Woo | Design by <a title="Styleshout" href="http://www.styleshout.com/">Styleshout</a> | Converted to GRAV by <a title="Grav" href="http://www.getgrav.org/">Grav Team</a></p> #}*/
 /*         <div id="go-top">*/
 /*             <a class="smoothscroll" title="Back to Top" href="#hero"><i class="icon-up-open"></i></a>*/
 /*         </div>*/

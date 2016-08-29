@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/grav-ewb/user/config/site.yaml',
-    'modified' => 1472479853,
+    'modified' => 1472484616,
     'data' => [
         'title' => 'Tedra Cobb & Associates',
         'author' => [
@@ -47,18 +47,14 @@ return [
                 'link' => '#features'
             ],
             1 => [
-                'text' => 'Pricing',
-                'link' => '#pricing'
-            ],
-            2 => [
                 'text' => 'Education',
                 'link' => '#screenshots'
             ],
-            3 => [
+            2 => [
                 'text' => 'Testimonials',
                 'link' => '#testimonials'
             ],
-            4 => [
+            3 => [
                 'text' => 'Subscribe',
                 'link' => '#subscribe'
             ]
